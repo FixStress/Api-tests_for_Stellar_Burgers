@@ -8,6 +8,10 @@ import io.restassured.filter.log.ResponseLoggingFilter;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+import site.nomoreparties.stellarburgers.user.User;
+import site.nomoreparties.stellarburgers.user.UserClient;
+import site.nomoreparties.stellarburgers.user.UserCredentials;
+import site.nomoreparties.stellarburgers.user.UserGenerator;
 
 import static org.hamcrest.Matchers.containsString;
 import static org.hamcrest.core.IsEqual.equalTo;

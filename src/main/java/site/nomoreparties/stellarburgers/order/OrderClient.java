@@ -1,4 +1,4 @@
-package site.nomoreparties.stellarburgers.ordertests;
+package site.nomoreparties.stellarburgers.order;
 
 import com.google.gson.Gson;
 import io.qameta.allure.Allure;

@@ -1,4 +1,4 @@
-package site.nomoreparties.stellarburgers.ordertests;
+package site.nomoreparties.stellarburgers.order;
 
 import io.restassured.path.json.JsonPath;
 import io.restassured.response.ValidatableResponse;

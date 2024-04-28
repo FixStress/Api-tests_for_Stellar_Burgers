@@ -1,4 +1,4 @@
-package site.nomoreparties.stellarburgers.usertests;
+package site.nomoreparties.stellarburgers.user;
 
 import io.qameta.allure.Step;
 

@@ -9,9 +9,12 @@ import io.restassured.response.ValidatableResponse;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-import site.nomoreparties.stellarburgers.usertests.User;
-import site.nomoreparties.stellarburgers.usertests.UserClient;
-import site.nomoreparties.stellarburgers.usertests.UserGenerator;
+import site.nomoreparties.stellarburgers.order.Order;
+import site.nomoreparties.stellarburgers.order.OrderClient;
+import site.nomoreparties.stellarburgers.order.OrderGenerator;
+import site.nomoreparties.stellarburgers.user.User;
+import site.nomoreparties.stellarburgers.user.UserClient;
+import site.nomoreparties.stellarburgers.user.UserGenerator;
 
 import java.util.ArrayList;
 
